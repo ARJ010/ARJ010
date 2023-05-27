@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARJ010
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning M.Sc. Computer Science student specializing in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Integrated M.Sc. Computer Science specializing in Artificial Intelligence and Machine Learning
 - 📫 How to reach me abhinavmuzhakom@gmail.com
 
 <!---
