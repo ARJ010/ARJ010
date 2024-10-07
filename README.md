@@ -5,7 +5,7 @@
 <hr/>
 <h4 align="center">I am a passionate learner in the fields of Data Science, AI, and ML. I love coding, designing, and innovating. I thrive on new challenges and am dedicated to continuous learning in the ever-evolving tech landscape.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ARJ010&label=Profile%20Views&color=dc143c&style=plastic" alt="ARJ010" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ARJ010&label=Abhinav's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ARJ010" /> </p>
 
 ## 🔥 Streak Stats
 
