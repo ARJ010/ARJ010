@@ -1,7 +1,47 @@
-# 💫 About Me:
-👋 Hi, I’m @ARJ010<br>👀 I’m interested in Web development<br>🌱 I’m currently learning Integrated M.Sc. Computer Science specializing in Artificial Intelligence and Machine Learning<br>📫 How to reach me abhinavmuzhakom@gmail.com
+<h1 align="center">Hi, I'm Abhinav Raj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+</p>
+<hr/>
+<h4 align="center">I am currently pursuing an Integrated M.Sc. in Computer Science with a specialization in Artificial Intelligence and Machine Learning. I love coding, designing, and exploring new technologies. I am an enthusiastic learner and enjoy taking on new challenges to grow my skills. I'm passionate about problem-solving and creating innovative solutions. Open to collaboration and new opportunities!</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ARJ010&label=Abhinav's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ARJ010" /> </p>
 
+## 🔥 Streak Stats
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ARJ010&theme=algolia" alt="ARJ010" /></p>
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
+  </a>
+&emsp; 
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sky_lvr_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arj010) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22701311) 
 
