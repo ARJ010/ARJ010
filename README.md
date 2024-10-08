@@ -7,7 +7,7 @@
  <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" >
 
 
-<h4 align="center">I am currently pursuing an Integrated M.Sc. in Computer Science with a specialization in Artificial Intelligence and Machine Learning at <a href="https://nasc.ac.in/">NASC</a>. I love coding, designing, and exploring new technologies. I am an enthusiastic learner and enjoy taking on new challenges to grow my skills. I'm passionate about problem-solving and creating innovative solutions. Open to collaboration and new opportunities!</h4>
+<h4 align="center">I am currently pursuing an Integrated M.Sc. in Computer Science with a specialization in Artificial Intelligence and Machine Learning at <a href="https://nasc.ac.in/">NASC</a>. I love coding, designing, and exploring new technologies.<\br> I am an enthusiastic learner and enjoy taking on new challenges to grow my skills. I'm passionate about problem-solving and creating innovative solutions. Open to collaboration and new opportunities!</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ARJ010&label=Abhinav's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ARJ010" /> </p>
 <br>
 
