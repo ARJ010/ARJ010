@@ -3,11 +3,11 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data%20Science%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-</br>
- <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" >
-</br>
 
-<h4 align="center">I am currently pursuing an Integrated M.Sc. in Computer Science with a specialization in Artificial Intelligence and Machine Learning at [NASC](https://nasc.ac.in/). I love coding, designing, and exploring new technologies. I am an enthusiastic learner and enjoy taking on new challenges to grow my skills. I'm passionate about problem-solving and creating innovative solutions. Open to collaboration and new opportunities!</h4>
+ <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" >
+
+
+<h4 align="center">I am currently pursuing an Integrated M.Sc. in Computer Science with a specialization in Artificial Intelligence and Machine Learning at ![NASC](https://nasc.ac.in/). I love coding, designing, and exploring new technologies. I am an enthusiastic learner and enjoy taking on new challenges to grow my skills. I'm passionate about problem-solving and creating innovative solutions. Open to collaboration and new opportunities!</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ARJ010&label=Abhinav's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ARJ010" /> </p>
 <br>
 
