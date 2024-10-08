@@ -3,11 +3,12 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data%20Science%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-<h4 align="center">I am a passionate learner in the fields of Data Science, AI, and ML. I love coding, designing, and innovating. I thrive on new challenges and am dedicated to continuous learning in the ever-evolving tech landscape.</h4>
-<br>
 </br>
  <img align="right" alt="coding" width= "400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" >
 </br>
+<h4 align="left">I am a passionate learner in the fields of Data Science, AI, and ML. I love coding, designing, and innovating. I thrive on new challenges and am dedicated to continuous learning in the ever-evolving tech landscape.</h4>
+<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ARJ010&label=Abhinav's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ARJ010" /> </p>
 
 ## 🔥 Streak Stats
