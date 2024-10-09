@@ -2,7 +2,7 @@
 
 <hr/>
 
-![ARJ010 About](Aboutgif)
+![ARJ010 About](About.gif)
 
 
 ## 🔥 Streak Stats
