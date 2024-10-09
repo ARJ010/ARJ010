@@ -59,7 +59,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Overleaf_Logo.svg">
+  <img src="https://images.ctfassets.net/nrgyaltdicpt/3wVnhfXFGY8QzpAoTgwgAI/cfafbb46a98f7be18d7e098eedeb20ec/overleaf-logo-primary.svg">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Microsoft_Office_logo_%282013-2019%29.png">
 </p>
 
