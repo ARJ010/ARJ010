@@ -60,7 +60,7 @@
 <p>
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
   <img src="https://img.shields.io/badge/Overleaf-47A141.svg?style=for-the-badge&logo=overleaf&logoColor=white">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Microsoft_Office_logo_%282013-2019%29.png">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01.svg?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </p>
 
 <h3>Graphic Design</h3>
