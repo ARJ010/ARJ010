@@ -1,4 +1,4 @@
-![ARJ010 Header](arj010.gif)
+![ARJ010 Header](banner.png)
 
 <hr/>
 
